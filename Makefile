@@ -8,7 +8,7 @@ CC = gcc
 SRC = src/*.c
 
 # Executable name
-NAME = 3D-maze
+NAME = 3D-Maze
 
 # RM + flags
 RM = rm -f
